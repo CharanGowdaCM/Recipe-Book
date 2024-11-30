@@ -16,6 +16,8 @@ The Recipe Book is 2nd assigment.It allows users to add, view, delete, and mark 
 
 **Search and Filter:** Search for recipes by title and filter by category.
 
+**Local Storage:** Everything has been stored in local storage.
+
 # Folders
 src/
 
